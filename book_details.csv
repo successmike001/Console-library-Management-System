@@ -1,0 +1,11 @@
+BookID,Title,Author,Year,Genre,Status,Borrower
+1,Harry Potter,J.K. Rowling,1997,Fantasy,Available,
+2,The Hobbit,J.R.R. Tolkien,1937,Fantasy,Available,
+3,1984,George Orwell,1949,Dystopian,Available,
+4,To Kill a Mockingbird,Harper Lee,1960,Fiction,Available,
+5,Pride and Prejudice,Jane Austen,1813,Romance,Available,
+6,The Great Gatsby,F. Scott Fitzgerald,1925,Classic,Available,
+7,Moby Dick,Herman Melville,1851,Adventure,Available,
+8,The Catcher in the Rye,J.D. Salinger,1951,Fiction,Available,
+9,The Lord of the Rings,J.R.R. Tolkien,1954,Fantasy,Available,
+10,The Alchemist,Paulo Coelho,1988,Fiction,Available,
